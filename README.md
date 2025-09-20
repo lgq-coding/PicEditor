@@ -1,1 +1,3 @@
 # PicEditor
+详细信息请参见本项目中的高级语言程序设计大作业报告
+使用Qt creator和opencv进行开发
